@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Software Engineer mainly working on iOS stuff written in Swift /Objective-C.
+
+[![Wooders's github stats](https://github-readme-stats.vercel.app/api?username=Wooder&count_private=false&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jochen-holzer/)
